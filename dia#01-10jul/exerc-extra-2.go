@@ -21,3 +21,5 @@ func main() {
 	fmt.Printf("Você tem %d anos.", idade)
 
 }
+
+// exercício precisa ser revisado

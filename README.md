@@ -5,23 +5,35 @@ repositório para o curso de iniciação em Golang do Women Who Go Curitiba
 
 <i>Gopher image by <a href="https://github.com/egonelbre/">egonelbre</a></i>
 
-# Agenda do Dia #01
+# Dia #01 - Agenda e Exercícios
+
+**Agenda**
 - Apresentação
 - Sobre o Curso
-- Introdução a Go
+- Introdução a Go   
 - Tipos de dados básicos
 - Tipos compostos
 - Condicionais
 - Laços de Repetição
 
-# Exercícios
-- <a href="https://github.com/c-caaah/lets-go-wwg/blob/main/ex-1.go">ex-1.go</a>
-- <a href="https://github.com/c-caaah/lets-go-wwg/blob/main/ex-2.go">ex-1.go</a>
-- <a href="https://github.com/c-caaah/lets-go-wwg/blob/main/ex-2.go">tipos-de-dados-basicos.go</a>
-- <a href="https://github.com/c-caaah/lets-go-wwg/blob/main/tipos-compostos.go">tipos-compostos.go</a>
+**Exercícios**
+- <a href="https://github.com/c-caaah/lets-go-wwg/blob/main/dia%2301-10jul/ex-1.go">ex-1.go</a>
+- <a href="https://github.com/c-caaah/lets-go-wwg/blob/main/dia%2301-10jul/ex-2.go">ex-1.go</a>
+- <a href="https://github.com/c-caaah/lets-go-wwg/blob/main/dia%2301-10jul/tipos-de-dados-basicos.go">tipos-de-dados-basicos.go</a>
+- <a href="https://github.com/c-caaah/lets-go-wwg/blob/main/dia%2301-10jul/tipos-compostos.go">tipos-compostos.go</a>
 
-# Exercícios Extras
-- <a href="https://github.com/c-caaah/lets-go-wwg/blob/main/exerc-extra-1.go">exerc-extra-1.go</a>
-- <a href="https://github.com/c-caaah/lets-go-wwg/blob/main/exerc-extra-2.go">exerc-extra-2.go</a>
+**Exercícios Extras**
+- <a href="https://github.com/c-caaah/lets-go-wwg/blob/main/dia%2301-10jul/tipos-de-dados-basicos.go">exerc-extra-1.go</a>
+- <a href="https://github.com/c-caaah/lets-go-wwg/blob/main/dia%2301-10jul/exerc-extra-2.go">exerc-extra-2.go</a>
 
+# Dia #02 - Agenda e Exercícios
 
+**Agenda**
+- Structs
+- Condicionais
+- Laços de repetição
+- Git
+- Funções e Métodos
+
+**Exercícios**
+- <a href="https://github.com/c-caaah/lets-go-wwg/blob/main/dia%2302-17jul/tipos-compostos.go">Continuação Tipos Compostos (Structs)</a>

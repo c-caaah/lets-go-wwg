@@ -84,7 +84,7 @@ func main() {
 	abighail := Pessoa{
 		Nome: "Abighail", 
 		Idade: 55, 
-		Cor: "Azul"
+			Cor: "Azul"
 	}
 
 	fmt.Printf("%s tem %d anos e sua cor preferida é %s\n", dionisio.Nome, dionisio.Idade, dionisio.Cor)
